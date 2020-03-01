@@ -1,0 +1,5 @@
+{
+    "developer": "开通邮箱服务的email",
+    "smtpPassword": "密码",
+    "smtpHost": "邮箱服务的host"
+}

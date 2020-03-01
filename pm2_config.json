@@ -1,0 +1,12 @@
+{   
+    "app": [
+        {
+            "name": "schedule-email",
+            "script": "./index.js",
+            "instances": 1,
+            "exec_interpreter": "node",
+            "exec_mode": "fork",
+            "watch": false
+        }
+    ]
+}

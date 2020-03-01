@@ -1,0 +1,30 @@
+[
+    {
+        "fromUser": "自己", 
+        "mail": "接收者的邮箱",
+        "remind": [
+            {
+                "type": "birthday",
+                "name": "自己",
+                "lunar": {
+                    "year": "2020",
+                    "month": "6",
+                    "day": "1"
+                },
+                "solar": {
+                    "year": "2020",
+                    "month": "10",
+                    "day": "1"
+                },
+                "use": 1
+            },
+            {
+                "type": "mission",
+                "year": 0,
+                "month": 0,
+                "day": 1,
+                "msg": "测试测试"
+            }
+        ]
+    }
+]
